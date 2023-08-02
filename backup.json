@@ -1,0 +1,38 @@
+{
+    "shubham": {
+        "_Person__name": "shubham",
+        "_Person__dob": "22/05/1995",
+        "gender": "male",
+        "accountDict": {
+            "337868": {
+                "CreatedOn": "2022",
+                "balance": 75000,
+                "interest": {
+                    "ROI": 3
+                },
+                "accnum": "337868",
+                "_CurrentAccount__acctype": "Current"
+            },
+            "467983": {
+                "CreatedOn": "2022",
+                "balance": 50000,
+                "interest": {
+                    "ROI": 6
+                },
+                "accnum": "467983",
+                "_SavingsAccount__acctype": "Savings"
+            },
+            "215672": {
+                "CreatedOn": "2020",
+                "balance": 100000,
+                "interest": {
+                    "ROI": 10
+                },
+                "accnum": "215672",
+                "_FixedDeposit__acctype": "FixedDeposit"
+            }
+        },
+        "services": {},
+        "special": "True"
+    }
+}
